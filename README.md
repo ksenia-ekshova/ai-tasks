@@ -1,5 +1,4 @@
 # ai-tasks
-Encode ID TK25ZS (Kseniia Ekshova)
-My repository for AI bootcamp assignments 
 
-   
+My repository for AI bootcamp assignments
+Encode ID TK25ZS (Kseniia Ekshova)
