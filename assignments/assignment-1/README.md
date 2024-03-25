@@ -19,9 +19,17 @@ python main.py
 
 4. Choose preferred chief name and ingredients/dish/recipe for inputs
 
-- dev.note: use freeze to save dependancies
+5. The report with user input and AI output saves to report.txt file 
+
+- dev.notes: 
+
+use freeze to save dependencies:
 pip freeze > requiremens.txt
 
+use black and ruff for code formatting (for all files in current directory):
+black .
+ruff check 
+ruff check --fix
 
 ## Task
 
