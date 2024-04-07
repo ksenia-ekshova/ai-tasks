@@ -2,23 +2,7 @@ Conversation report
 Selected chef name:
 Kseniia
 User input:
-Seaweed-Wrapped Cheese Bites
+How to live
 AI-chef output:
-To make Seaweed-Wrapped Cheese Bites, you can follow this recipe:
-
-Ingredients:
-- Nori seaweed sheets
-- Cheese of your choice (try a local Norwegian cheese for a unique flavor)
-- Soy sauce for dipping (optional)
-- Sesame seeds for garnish (optional)
-
-Instructions:
-1. Cut the cheese into small bite-sized cubes.
-2. Place a cube of cheese at the end of a nori seaweed sheet and carefully roll it up, making sure the cheese is fully wrapped.
-3. Secure the end of the nori sheet with a bit of water to seal it.
-4. Repeat the process with the remaining cheese cubes and nori sheets.
-5. (Optional) Sprinkle sesame seeds on top for an added crunch.
-6. Serve the Seaweed-Wrapped Cheese Bites with soy sauce on the side for dipping.
-
-Enjoy your flavorful and creative Seaweed-Wrapped Cheese Bites!
+Please provide a specific request related to dish names, recipe for a dish, or a recipe you would like to critique. Let me know how I can assist you in the culinary realm!
 
